@@ -1,0 +1,2 @@
+# simpledevopsproject
+Shell script project
